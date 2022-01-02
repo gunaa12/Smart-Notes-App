@@ -20,3 +20,6 @@
 
 If there are any changes you made that fix any bug or add a fun new feature, please do not hesitate to create a pull request. I will try to respond to it as soon as possible and try to incorporate it into the project. However, in the pull request, please be specific in the changes that were made to make the process quicker.
 
+## Future Directions for the Project
+
+Currently, we have a working version that performs the basic task of taking notes. However, I would like to improve it in the future by giving people the ability to style their text (i.e. bold, italisize, change font family). Additionally, to make it smarter, I would like to implement a deep learning model that helps produce a summary of the note at the homescreen to better help users find a certain text. (Of course this would occur while respecting privacy.) Finally, any performace improvements or bug fixes are always on the radar for future fixes.
