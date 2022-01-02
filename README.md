@@ -1,7 +1,7 @@
 # Smart Notes App
 
 ## Sumamary
-
+This a a simple notes app that helps people take and organize notes. This uses Dart/Flutter to create the frontend for all platforms: Android, iOS, and Web. Furthermore, this has the ability to handle unique users through the use of Firebase. Furthermore, Firebase allows for notes to be stored securely in the cloud.
 
 ## Setting up Project the on Local Computer
 
